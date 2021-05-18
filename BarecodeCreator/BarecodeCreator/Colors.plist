@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Black</key>
+	<string>000000</string>
+	<key>Blue</key>
+	<string>0000FF</string>
+	<key>Brown</key>
+	<string>A52A2A</string>
+	<key>Crimson</key>
+	<string>DC143C</string>
+	<key>Dark Blue</key>
+	<string>00008B</string>
+	<key>Dark Green</key>
+	<string>006400</string>
+	<key>Dark Red</key>
+	<string>8B0000</string>
+	<key>Indigo</key>
+	<string>4B0082</string>
+	<key>Maroon</key>
+	<string>800000</string>
+	<key>Navy Blue</key>
+	<string>000080</string>
+	<key>Purple</key>
+	<string>800080</string>
+	<key>Alice Blue</key>
+	<string>F0F8FF</string>
+	<key>Azure</key>
+	<string>F0FFFF</string>
+	<key>Beige</key>
+	<string>F5F5DC</string>
+	<key>Honey Dew</key>
+	<string>F0FFF0</string>
+	<key>Ivory</key>
+	<string>FFFFF0</string>
+	<key>Linen</key>
+	<string>FAF0E6</string>
+	<key>Mint Cream</key>
+	<string>F5FFFA</string>
+	<key>Old Lace</key>
+	<string>FDF5E6</string>
+	<key>Papaya Whip</key>
+	<string>FFEFD5</string>
+	<key>Sea Shell</key>
+	<string>FFF5EE</string>
+	<key>White</key>
+	<string>FFFFFF</string>
+</dict>
+</plist>
